@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.34a26753.css",
+    "main.js": "/my-portfolio/static/js/main.1f4f333d.js",
+    "static/js/787.33e3f961.chunk.js": "/my-portfolio/static/js/787.33e3f961.chunk.js",
+    "static/media/person.jpg": "/my-portfolio/static/media/person.4e8363f7ca660a65cc70.jpg",
+    "static/media/node-js.png": "/my-portfolio/static/media/node-js.e247163efb8ffec13493.png",
+    "static/media/vueart.png": "/my-portfolio/static/media/vueart.5244aa97e908310089b9.png",
+    "static/media/React-icon.svg.png": "/my-portfolio/static/media/React-icon.svg.8a6fc0a24a800d1e0f4a.png",
+    "static/media/evolution.png": "/my-portfolio/static/media/evolution.58b22a0b18b32a6b482d.png",
+    "static/media/next.jpeg": "/my-portfolio/static/media/next.9033253e201423694b94.jpeg",
+    "static/media/Tailwind_CSS_Logo.svg.png": "/my-portfolio/static/media/Tailwind_CSS_Logo.svg.36b2728bf0d14b7b7576.png",
+    "static/media/CSS3_logo.svg.png": "/my-portfolio/static/media/CSS3_logo.svg.84de5dab5fab27f4161c.png",
+    "static/media/Rlogical-Blog-Images-thumbnail.png": "/my-portfolio/static/media/Rlogical-Blog-Images-thumbnail.331efda6800a28298b1b.png",
+    "static/media/images.jpg": "/my-portfolio/static/media/images.b94e5082798f16ad20e4.jpg",
+    "index.html": "/my-portfolio/index.html",
+    "main.34a26753.css.map": "/my-portfolio/static/css/main.34a26753.css.map",
+    "main.1f4f333d.js.map": "/my-portfolio/static/js/main.1f4f333d.js.map",
+    "787.33e3f961.chunk.js.map": "/my-portfolio/static/js/787.33e3f961.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34a26753.css",
+    "static/js/main.1f4f333d.js"
+  ]
+}
