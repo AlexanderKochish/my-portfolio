@@ -39,7 +39,7 @@ const Portfolio = () => {
         <h2 className='inline-block font-title font-medium border-b-4 border-gray-500 mb-4 sm:mb-10 text-2xl sm:text-5xl text-white'>Portfolio</h2>
         <div className='grid md:grid-cols-3 gap-4 sm:grid-cols-2'>
         {portfolioImages && portfolioImages.map(({id,src})=>
-            <div key={id} className='shadow-lg flex flex-col justify-center rounded-lg items-center hover:scale-105 duration-200 bg-gradient-to-r from-slate-900 to-slate-800'>
+            <div key={id} className='shadow-lg flex flex-col justify-center rounded-lg items-center md:hover:scale-105 duration-200 bg-gradient-to-r from-slate-900 to-slate-800'>
                 <img className=' w-2/3 h-3/4 ' src={src} alt='img' />
                 <div className='text-white grid grid-cols-2'>
                     <button className='py-2 px-5 m-2 rounded-lg hover:bg-sky-700 duration-200 bg-sky-900'>Demo</button>

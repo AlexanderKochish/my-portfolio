@@ -1,8 +1,9 @@
 import React from 'react'
 
 const Contacts = () => {
+  
   return (
-    <div name='contact' className='text-white p-4 flex justify-center items-center bg-gradient-to-b from-slate-900 to-slate-700 w-full h-screen'>
+    <div name='contact' className='text-white p-4 flex justify-center items-center bg-gradient-to-b from-slate-900 to-slate-700 w-full min-h-screen'>
         <div className='container mx-auto'>
             <h2 className='text-white text-2xl sm:text-5xl mb-4 sm:mb-10 border-b-4 border-gray-500 font-title inline-block'>Contact</h2>
             <p className='mb-4'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Id consectetur ipsum temporibus aliquid aut, dignissimos asperiores minima architecto a debitis, nesciunt est magnam ex atque dolores nemo quidem error saepe.</p>

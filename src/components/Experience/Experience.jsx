@@ -49,7 +49,7 @@ const Experience = () => {
   return (
     <div name='experience' className='p-2 sm:p-4  w-full flex justify-center items-center min-h-screen bg-gradient-to-b from-slate-700 to-slate-900'>
         <div className='container mx-auto'>
-            <h2 className='text-white text-2xl pt-10 sm:text-5xl mt-4 sm:mb-10 border-b-4 border-gray-500 font-title inline-block'>Experience</h2>
+            <h2 className='text-white text-2xl pt-10 sm:text-5xl my-4 sm:mb-10 border-b-4 border-gray-500 font-title inline-block'>Experience</h2>
             <div className='grid w-full h-full md:grid-cols-2 lg:grid-cols-3  sm:grid-cols-2 gap-4'>
                 {experienceImages && experienceImages.map(({id,img,text,anim})=>
                 <div key={id} className='flex flex-col justify-center hover:scale-x-360 bg-gradient-to-r from-slate-800 to-slate-600 items-center rounded-lg shadow-lg'>
