@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.1876124d.css",
-    "main.js": "/my-portfolio/static/js/main.765b0bd5.js",
+    "main.css": "/my-portfolio/static/css/main.8665f69f.css",
+    "main.js": "/my-portfolio/static/js/main.65b0e7b1.js",
     "static/js/787.33e3f961.chunk.js": "/my-portfolio/static/js/787.33e3f961.chunk.js",
     "static/media/person.jpg": "/my-portfolio/static/media/person.4e8363f7ca660a65cc70.jpg",
     "static/media/node-js.png": "/my-portfolio/static/media/node-js.e247163efb8ffec13493.png",
@@ -14,12 +14,12 @@
     "static/media/Rlogical-Blog-Images-thumbnail.png": "/my-portfolio/static/media/Rlogical-Blog-Images-thumbnail.331efda6800a28298b1b.png",
     "static/media/images.jpg": "/my-portfolio/static/media/images.b94e5082798f16ad20e4.jpg",
     "index.html": "/my-portfolio/index.html",
-    "main.1876124d.css.map": "/my-portfolio/static/css/main.1876124d.css.map",
-    "main.765b0bd5.js.map": "/my-portfolio/static/js/main.765b0bd5.js.map",
+    "main.8665f69f.css.map": "/my-portfolio/static/css/main.8665f69f.css.map",
+    "main.65b0e7b1.js.map": "/my-portfolio/static/js/main.65b0e7b1.js.map",
     "787.33e3f961.chunk.js.map": "/my-portfolio/static/js/787.33e3f961.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1876124d.css",
-    "static/js/main.765b0bd5.js"
+    "static/css/main.8665f69f.css",
+    "static/js/main.65b0e7b1.js"
   ]
 }
